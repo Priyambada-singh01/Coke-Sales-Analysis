@@ -102,5 +102,3 @@ This analysis demonstrates how Excel can be effectively used for real-world busi
 * Use Power BI or Tableau for more interactive visualizations.
 
 ---
-
-Let me know if you'd like me to personalize the summary using actual values from your Excel file (e.g., top product, region, sales figures). I can extract them for you.
